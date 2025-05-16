@@ -61,7 +61,6 @@ CORS_ALLOWED_ORIGINS = (
     "http://localhost:8000",
 )
 
-CSRF_TRUSTED_ORIGINS = ["djangonews27.fly.dev/", "https://*.djangonews27.fly.com", "https://*.fly.dev/", "https://fly.io/apps/djangonews27/"]
 
 ROOT_URLCONF = 'django_project.urls'
 
