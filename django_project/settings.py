@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["todo-sieh.onrender.com","localhost", "127.0.0.1"]
 
-render.com
+
 # Application definition
 
 INSTALLED_APPS = [
